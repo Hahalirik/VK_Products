@@ -1,4 +1,4 @@
-package com.example.vk_products.ui.theme
+package com.example.vk_products.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
